@@ -1,0 +1,12 @@
+.button-group-container {
+  display: flex;
+  width: 25%;
+  justify-content: space-between;
+}
+
+button.button {
+  border: none;
+  height: 45px;
+  border-radius: 5px;
+  width: 40%;
+}
